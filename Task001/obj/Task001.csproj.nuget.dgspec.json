@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Лекция/Лекция_04/Task001/Task001.csproj": {}
+    "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_004/Task001/Task001.csproj": {}
   },
   "projects": {
-    "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Лекция/Лекция_04/Task001/Task001.csproj": {
+    "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_004/Task001/Task001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Лекция/Лекция_04/Task001/Task001.csproj",
+        "projectUniqueName": "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_004/Task001/Task001.csproj",
         "projectName": "Task001",
-        "projectPath": "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Лекция/Лекция_04/Task001/Task001.csproj",
+        "projectPath": "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_004/Task001/Task001.csproj",
         "packagesPath": "/Users/nurzan/.nuget/packages/",
-        "outputPath": "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Лекция/Лекция_04/Task001/obj/",
+        "outputPath": "/Users/nurzan/Desktop/GeekBrains/Программирование/C#/Семинар/Семинар_004/Task001/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nurzan/.nuget/NuGet/NuGet.Config"
